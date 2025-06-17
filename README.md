@@ -11,7 +11,7 @@
 Hi I'm Wangzy,a developer,The main tech stack is Java and Go, with an interest in full-stack development and AI application development.
 
 #### 🙋 How to describe myself:
-- A programmer who loves open source but is a bit inexperienced, wants to write a student book that becomes popular online. 
+- A programmer who loves open source but lacks some experience wants to write a popular web novel.
 
 #### 🚀 What I am doing right now:
 
