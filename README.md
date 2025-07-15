@@ -15,7 +15,7 @@ Hi I'm Wangzy,a developer,The main tech stack is Java and Go, with an interest i
 
 #### 🚀 What I am doing right now:
 
-- Contributing to the Spring AI Alibaba community
+- Contributing to the Spring AI Alibaba,kuscia,Apache EventMesh
 - Look for an internship
 - [Notes](https://eidmhtf0u0h.feishu.cn/wiki/Myohws53liOskmks9vLcHCEinnh)
 - [blog](https://wzy455.top)
