@@ -10,8 +10,11 @@
 
 Hi I'm Wangzy,a developer,The main tech stack is Java and Go, with an interest in full-stack development and AI application development.
 
-#### 🙋 How to describe myself:
-- A programmer who loves open source but lacks some experience wants to write a popular web novel.
+#### 🙋 foucs on:
+- Spring AI Alibaba
+- Seata-go
+- dubbo-go
+- Higress
 
 #### 🚀 What I am doing right now:
 
