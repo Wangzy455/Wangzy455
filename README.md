@@ -15,6 +15,7 @@ Hi I'm Wangzy,a developer,The main tech stack is Java and Go, with an interest i
 - Seata-go
 - dubbo-go
 - Higress
+- milvus
 
 #### 🚀 What I am doing right now:
 
