@@ -10,20 +10,15 @@
 
 Hi I'm Wangzy,a developer,The main tech stack is Java and Go, with an interest in full-stack development and AI application development.
 
-#### 🙋 foucs on:
+#### 🙋 Open source experience:
 - Spring AI Alibaba
 - Seata-go
 - dubbo-go
 - Higress
 - milvus
 
-#### 🚀 What I am doing right now:
-
-- Contributing to the Spring AI Alibaba,kuscia,Apache EventMesh
-- Developing advertising placement platforms in the commercialization department of Xiaohongshu.
-- [Notes](https://eidmhtf0u0h.feishu.cn/wiki/Myohws53liOskmks9vLcHCEinnh)
-- [blog](https://wzy455.top)
-- [掘金](https://juejin.cn/user/1238527769054938)
+#### 🚀 Work experience:
+- 2025.7 - right now  XiaoHongShu Advertising platform development
 
 #### 😝 Things I like to do:
 
