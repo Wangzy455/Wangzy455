@@ -27,7 +27,7 @@ Hi I'm Wangzy,a developer,The main tech stack is Java and Go, with an interest i
 - play football
 
 #### The language and tools I am using:
-[![Skills](https://skillicons.dev/icons?i=java,go,react,vue,unity)](https://github.com/AndriiMaliuta)
+[![Skills](https://skillicons.dev/icons?i=java,go,c++,rustreact,vue,unity)](https://github.com/AndriiMaliuta)
 
 
 #### 🔭 What I want to do in the future:
