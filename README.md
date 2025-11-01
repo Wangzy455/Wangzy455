@@ -13,7 +13,6 @@ Hi I'm Wangzy,a developer,The main tech stack is Java and Go, with an interest i
 #### 🙋 Open source experience:
 - Spring AI Alibaba
 - Seata-go
-- dubbo-go
 - Higress
 - dubbo
 - milvus
