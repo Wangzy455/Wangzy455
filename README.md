@@ -8,7 +8,7 @@
 
 
 
-Hi I'm Wangzy,a developer,The main tech stack is Java and Go, with an interest in full-stack development and AI application development.
+Hi I'm Wangzy,a junior student,a developer,The main tech stack is Java and Go, with an interest in full-stack development and AI application development.
 
 #### 🙋 Open source experience:
 - Spring AI Alibaba
