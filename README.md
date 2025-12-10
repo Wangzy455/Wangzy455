@@ -18,8 +18,8 @@ Hi I'm Wangzy,a junior student,a developer,The main tech stack is Java and Go, w
 - milvus
 
 #### 🚀 Work experience:
-- 2025.7 - right now  XiaoHongShu Advertising platform development
-
+- 2025.7 - 2025.12  XiaoHongShu Advertising platform development
+- 2025.12 - right now KuaiShou MLOps
 #### 😝 Things I like to do:
 
 - Seriously write code and learn new things 
