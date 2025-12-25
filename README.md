@@ -11,7 +11,7 @@
 Hi I'm Wangzy,a junior student,a developer,The main tech stack is Java and Go, with an interest in MLops,Full-Stack Model Engineering and AI application development.
 
 #### 🙋 Open source experience:
-- Spring AI Alibaba
+- Spring AI Alibaba committer
 - Seata-go
 - Higress
 - dubbo
