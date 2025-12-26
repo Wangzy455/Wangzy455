@@ -9,13 +9,13 @@
 
 
 Hi I'm Wangzy,a junior student,a developer,The main tech stack is Java and Go, with an interest in MLops,Full-Stack Model Engineering and AI application development.
+The integration of big data components and applications is also within the scope of my research.
 
 #### 🙋 Open source experience:
 - Spring AI Alibaba committer
 - Seata-go
 - Higress
-- dubbo
-- milvus
+- AgentScope
 
 #### 🚀 Work experience:
 - 2025.7 - 2025.12  XiaoHongShu Advertising platform development
