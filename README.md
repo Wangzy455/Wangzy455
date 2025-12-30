@@ -9,10 +9,10 @@
 
 
 Hi I'm Wangzy,a junior student,a developer,interest in 
-MLops
-Full-Stack Model Engineering and AI application development
-cloud Native
-LLM
+- MLops
+- Full-Stack Model Engineering and AI application development
+- cloud Native
+- LLM
 
 #### 🙋 Open source experience:
 - Spring AI Alibaba committer
