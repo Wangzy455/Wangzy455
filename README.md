@@ -18,7 +18,7 @@ Hi I'm Wangzy,a junior student,a developer,interest in
 - Spring AI Alibaba committer
 - Seata-go
 - Higress
-- AgentScope
+- kethena
 
 #### 🚀 Work experience:
 - 2025.7 - 2025.12  XiaoHongShu Advertising platform development
