@@ -2,12 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=To+become+a+techn+humanist)](https://git.io/typing-svg)
 
-
-<img align="right" alt="img" src="https://pic1.imgdb.cn/item/6851366658cb8da5c8553f0f.png" width="50%" height="auto" />
-<img width="50%" align="right" src="https://streak-stats.demolab.com?user=Wangzy455&theme=tokyonight&hide_border=%E5%81%87&short_numbers=%E5%81%87" />
-
-
-
 Hi I'm Wangzy,a junior student,a developer,interest in 
 - MLops
 - Full-Stack Model Engineering and AI application development
@@ -16,26 +10,17 @@ Hi I'm Wangzy,a junior student,a developer,interest in
 
 #### 🙋 Open source experience:
 - Spring AI Alibaba committer
-- Seata-go
-- Higress
-- kethena
+- 2025 ospp
+- Apache Contributor
+- 
+#### 🔭 Project I focus
+AI infra/MLops/cloud Native [kthena](https://github.com/volcano-sh/kthena),[kuscia](https://github.com/secretflow/kuscia)
+Agent [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba)
+infra [Seata-go](https://github.com/apache/incubator-seata-go),[Higress](https://github.com/alibaba/higress),[eventmesh](https://github.com/apache/eventmesh)
 
 #### 🚀 Work experience:
 - 2025.7 - 2025.12  XiaoHongShu Advertising platform development
 - 2025.12 - right now KuaiShou MLOps
-#### 😝 Things I like to do:
-
-- Seriously write code and learn new things 
-- Reading literary works and writing articles
-- play football
 
 #### The language and tools I am using:
-[![Skills](https://skillicons.dev/icons?i=java,go,c,rust,react,vue,unity)](https://github.com/AndriiMaliuta)
-
-
-#### 🔭 What I want to do in the future:
-- Become an atypical software developer.
-- Learn trendy and cool things, become a self-media blogger.
-- Becoming an online novel writer
-- To become a techn humanist
-- Live a free life
+[![Skills](https://skillicons.dev/icons?i=java,go,c,puthon,rust,react,vue,unity)](https://github.com/AndriiMaliuta)
