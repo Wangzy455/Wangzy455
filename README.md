@@ -23,4 +23,4 @@ infra [Seata-go](https://github.com/apache/incubator-seata-go),[Higress](https:/
 - 2025.12 - right now KuaiShou MLOps
 
 #### The language and tools I am using:
-[![Skills](https://skillicons.dev/icons?i=java,go,c,puthon,rust,react,vue,unity)](https://github.com/AndriiMaliuta)
+[![Skills](https://skillicons.dev/icons?i=java,go,c,python,rust,react,vue,unity)](https://github.com/AndriiMaliuta)
