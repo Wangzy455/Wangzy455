@@ -14,9 +14,9 @@ Hi I'm Wangzy,a junior student,a developer,interest in
 - Apache Contributor
   
 #### 🔭 Project I focus
-AI infra/MLops/cloud Native [kthena](https://github.com/volcano-sh/kthena),[kuscia](https://github.com/secretflow/kuscia)
-Agent [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba)
-infra [Seata-go](https://github.com/apache/incubator-seata-go),[Higress](https://github.com/alibaba/higress),[eventmesh](https://github.com/apache/eventmesh)
+- AI infra/MLops/cloud Native [kthena](https://github.com/volcano-sh/kthena),[kuscia](https://github.com/secretflow/kuscia)
+- Agent [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba),[OpenJudge](https://github.com/agentscope-ai/OpenJudge),[Trinity-RFT](https://github.com/agentscope-ai/Trinity-RFT)
+- infra [Seata-go](https://github.com/apache/incubator-seata-go),[Higress](https://github.com/alibaba/higress),[eventmesh](https://github.com/apache/eventmesh)
 
 #### 🚀 Work experience:
 - 2025.7 - 2025.12  XiaoHongShu Advertising platform development
