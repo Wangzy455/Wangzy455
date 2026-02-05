@@ -22,5 +22,10 @@ Hi I'm Wangzy,a junior student,a developer,interest in
 - 2025.7 - 2025.12  XiaoHongShu Advertising platform development
 - 2025.12 - right now KuaiShou MLOps
 
+#### ✅ What we are doing now：
+- Looking for internship-to-full-time opportunities in 2026.
+- Input learning Python and Go
+- Continue to delve deeper into MLops and Agent engineering
+
 #### The language and tools I am using:
 [![Skills](https://skillicons.dev/icons?i=java,go,c,python,rust,react,vue,unity)](https://github.com/AndriiMaliuta)
