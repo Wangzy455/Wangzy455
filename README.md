@@ -23,7 +23,7 @@ Hi I'm Wangzy,a junior student,a developer,interest in
 - 2025.12 - right now KuaiShou MLOps
 
 #### ✅ What we are doing now：
-- Looking for internship-to-full-time opportunities in 2026.
+- Looking for internship-to-full-time opportunities in 2026 - 2027.
 - Input learning Python and Go
 - Continue to delve deeper into MLops and Agent engineering
 
