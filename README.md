@@ -20,7 +20,7 @@ Hi I'm Wangzy,a junior student,a developer,interest in
 
 #### 🚀 Work experience:
 - 2025.7 - 2025.12  XiaoHongShu Advertising platform development
-- 2025.12 - right now KuaiShou MLOps
+- 2025.12 - right now KuaiShou rag
 
 #### ✅ what I'm doing now：
 - Looking for internship-to-full-time opportunities in 2026 - 2027.
